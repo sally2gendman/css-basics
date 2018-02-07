@@ -1,0 +1,44 @@
+/* Body styles */
+body {
+  font-size: 14px;
+}
+
+nav {
+  background color: yellow;
+  height: 100px;
+  margin-top: -10px;
+  position: fixed;
+  width: 100%;
+}
+
+section {
+  margin: 0 auto;
+  width: 60%;
+}
+
+/* Header styles */
+h1 {
+  font-family: sans-serif;
+  font-size: 2em;
+}
+
+h3 {
+  font-size: 1.3em;
+}
+
+/* Misc styles */
+.example, h3 {
+  padding-top: 30px;
+  text-align: center;
+}
+
+.element {
+  background-color: green;
+  height: 100px;
+  margin: 10px 0;
+  width: 100%;
+}
+
+.feature {
+  background-color: pink;
+}
